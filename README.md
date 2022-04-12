@@ -7,3 +7,10 @@
 - three_values_twister は3つの乱数からseed値を求める
 
 ものになっています。
+
+## Notes
+CTF 勉強会である 魔女のお茶会 に、 reverse_php_random の内容について発表させていただきました。
+
+アーカイブ: https://www.youtube.com/watch?v=oKNwBLvO9vc&t=4734s&ab_channel=kurenaif
+
+発表資料: https://speakerdeck.com/artoy/dong
