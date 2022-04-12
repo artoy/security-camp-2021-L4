@@ -11,6 +11,6 @@
 ## Notes
 CTF 勉強会である 魔女のお茶会 に、 reverse_php_random の内容について発表させていただきました。
 
-アーカイブ: https://www.youtube.com/watch?v=oKNwBLvO9vc&t=4734s&ab_channel=kurenaif
+アーカイブ: https://youtu.be/oKNwBLvO9vc
 
 発表資料: https://speakerdeck.com/artoy/dong
